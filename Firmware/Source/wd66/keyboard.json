@@ -6,8 +6,6 @@
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
-        "command": false,
-        "console": false,
         "extrakey": true,
         "mousekey": true,
         "nkro": true
@@ -17,11 +15,11 @@
         "rows": ["D1", "D2", "D3", "D5", "D0"]
     },
     "processor": "atmega32u4",
-    "url": "",
+    "url": "https://github.com/1215-tech/WD66",
     "usb": {
         "device_version": "0.0.1",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x1215",
+        "vid": "0x1215"
     },
     "layouts": {
         "LAYOUT_ansi": {
